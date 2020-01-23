@@ -1,3 +1,13 @@
+h1 {
+  font-size: 5rem;
+  font-weight: 600;
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +24,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #3B5999;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,6 +36,41 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.dashboard-header {
+  background-color: #3B5999;
+  color: #fff;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.dashboard-header-content {
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.avatar {
+  margin-bottom: 1.5rem;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+
+.avatar img {
+  height: 100%;
+  width: 100%;
+  border-radius: 100%;
 }
 
 @keyframes App-logo-spin {
