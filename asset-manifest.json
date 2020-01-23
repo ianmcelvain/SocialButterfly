@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SocialButterfly/static/css/main.8c123657.chunk.css",
-    "main.js": "/SocialButterfly/static/js/main.50cde161.chunk.js",
-    "main.js.map": "/SocialButterfly/static/js/main.50cde161.chunk.js.map",
+    "main.js": "/SocialButterfly/static/js/main.a40ccbab.chunk.js",
+    "main.js.map": "/SocialButterfly/static/js/main.a40ccbab.chunk.js.map",
     "runtime-main.js": "/SocialButterfly/static/js/runtime-main.a305afef.js",
     "runtime-main.js.map": "/SocialButterfly/static/js/runtime-main.a305afef.js.map",
     "static/css/2.47e06e2e.chunk.css": "/SocialButterfly/static/css/2.47e06e2e.chunk.css",
     "static/js/2.b73e2975.chunk.js": "/SocialButterfly/static/js/2.b73e2975.chunk.js",
     "static/js/2.b73e2975.chunk.js.map": "/SocialButterfly/static/js/2.b73e2975.chunk.js.map",
     "index.html": "/SocialButterfly/index.html",
-    "precache-manifest.e72f15ed3b0f161be8188c1b97d282ba.js": "/SocialButterfly/precache-manifest.e72f15ed3b0f161be8188c1b97d282ba.js",
+    "precache-manifest.4b52467e90fdb38285cf9d549261445a.js": "/SocialButterfly/precache-manifest.4b52467e90fdb38285cf9d549261445a.js",
     "service-worker.js": "/SocialButterfly/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/SocialButterfly/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.8c123657.chunk.css.map": "/SocialButterfly/static/css/main.8c123657.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.b73e2975.chunk.js",
     "static/css/main.8c123657.chunk.css",
-    "static/js/main.50cde161.chunk.js"
+    "static/js/main.a40ccbab.chunk.js"
   ]
 }

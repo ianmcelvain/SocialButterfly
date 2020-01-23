@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3777ade4103c037eea3edbc6d3639eb9",
+    "revision": "3bfb618faec8689f5361f9697f940e3a",
     "url": "/SocialButterfly/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocialButterfly/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6261dc39fdca012a85b9",
+    "revision": "3b69a3011bc576f5a51c",
     "url": "/SocialButterfly/static/css/main.8c123657.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocialButterfly/static/js/2.b73e2975.chunk.js.LICENSE"
   },
   {
-    "revision": "6261dc39fdca012a85b9",
-    "url": "/SocialButterfly/static/js/main.50cde161.chunk.js"
+    "revision": "3b69a3011bc576f5a51c",
+    "url": "/SocialButterfly/static/js/main.a40ccbab.chunk.js"
   },
   {
     "revision": "39b24e9d25754a10978f",
