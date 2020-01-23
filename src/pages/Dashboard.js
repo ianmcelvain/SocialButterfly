@@ -18,7 +18,7 @@ const Dashboard = props => {
                                         <div className='avatar'>
                                             <img src={props.user.picture.data.url} alt={props.user.name}/>
                                         </div>
-                                        <h2><strong>{props.user.name}</strong></h2>
+                                        <h2><strong>{props.user.name}</strong>{props.user.gender}</h2>
                                     </div>
                                 </Col>
                             </Row>

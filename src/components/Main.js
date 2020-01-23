@@ -29,7 +29,6 @@ export default class Main extends Component {
     render() {
         return (
             <div className='App'>
-                <BrowserRouter>
                     <Switch>
                         <Route 
                         exact path="/" 
@@ -44,7 +43,6 @@ export default class Main extends Component {
                         )} 
                         />
                     </Switch>
-                </BrowserRouter>
             </div>
 
         )

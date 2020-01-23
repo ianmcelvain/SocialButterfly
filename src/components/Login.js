@@ -4,6 +4,7 @@ import FacebookLogin from 'react-facebook-login';
 export default class Login extends Component {
 
     responseFacebook = response => {
+        console.log(response);
         // Wrap in conditional if there was an error with response data
         if(response.status != 'unknown') {
             this.props.handleSuccessfulAuth(response);
@@ -20,7 +21,7 @@ export default class Login extends Component {
                 <FacebookLogin
                 appId="222393578753669"
                 autoLoad={true}
-                fields="name,email,picture.width(250),gender"
+                fields="name,email,picture.width(250),posts"
                 onClick={this.componentClicked}
                 callback={this.responseFacebook} 
                 />
