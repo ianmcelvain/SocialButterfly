@@ -6,5 +6,6 @@ Due to strict persmission access for individuals use on their app I cannot acces
 Will attempt same approach with Twitter.
 
 ### Used
-- React
-- react-facebook-login
+- React $ create-react-app
+- Facebook Graph API
+- Facebook Login $ react-facebook-login
